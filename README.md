@@ -7,7 +7,7 @@ The Real-Time Weather Monitoring Application is designed to gather, process, and
 The project is organized as follows:
 
 weather-monitoring-app/  
-├── app.py                     # Main entry point for running the application  
+├── app.py                       # Main entry point for running the application  
 ├── config.py                  # Configuration settings for the application  
 ├── database.py                # Database connection and ORM models  
 ├── data_processor.py          # Functions for data processing and aggregation  

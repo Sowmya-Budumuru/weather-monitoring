@@ -7,18 +7,18 @@ The Real-Time Weather Monitoring Application is designed to gather, process, and
 The project is organized as follows:
 
 weather-monitoring-app/
-├── app.py               # Main entry point for running the application
-├── config.py            # Configuration settings for the application
-├── database.py          # Database connection and ORM models
-├── data_processor.py    # Functions for data processing and aggregation
-├── fetch_data.py        # Script for fetching weather data from OpenWeatherMap
-├── alerting.py          # Module for the alerting system
-├── visualizations.py    # Code for generating visualizations
-├── save_daily_summary.py# Code for saving daily summaries to the database
-├── daily_summary.py     # Logic for creating daily weather summaries
-├── requirements.txt     # List of dependencies
-├── .env                 # Environment variables (not included in version control)
-└── README.md            # Project documentation
+├── app.py               # Main entry point for running the application  
+├── config.py            # Configuration settings for the application  
+├── database.py          # Database connection and ORM models  
+├── data_processor.py    # Functions for data processing and aggregation  
+├── fetch_data.py        # Script for fetching weather data from OpenWeatherMap  
+├── alerting.py          # Module for the alerting system  
+├── visualizations.py    # Code for generating visualizations  
+├── save_daily_summary.py# Code for saving daily summaries to the database  
+├── daily_summary.py     # Logic for creating daily weather summaries  
+├── requirements.txt     # List of dependencies  
+├── .env                 # Environment variables (not included in version control  
+└── README.md            # Project documentation  
 
 ## Features
 **Real** -Time Weather Data Collection: Fetches weather data from the OpenWeatherMap API for various metro cities in India.
